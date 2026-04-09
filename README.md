@@ -24,6 +24,3 @@ No presente repositoório são disponilizados os seguintes arquivos:
 - Pré-processamento de dados
 - Respondendo nossas hipóteses
 - Conclusão
-10. Conclusão	
-1. 
-- **Portal Brasileiro de Dados Abertos**: https:
