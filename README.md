@@ -7,7 +7,7 @@ Pontifícia Universidade Católica do Rio de Janeiro / Pós-Graduação em Ciên
 
 Este projeto apresenta a Análise de Dados Exploratória (EDA) e o pré-processamento relativos às Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024. 
 
-No presente repositoório são disponilizados os seguintes arquivos:
+No presente repositório são disponilizados os seguintes arquivos:
 
 ### - Conjunto de dados (SP_202412_HOSP_CONS.csv); 
 
@@ -24,3 +24,15 @@ No presente repositoório são disponilizados os seguintes arquivos:
 - Pré-processamento de dados
 - Respondendo nossas hipóteses
 - Conclusão
+
+- ### Síntese
+
+- O conjunto de dados selecionado corresponde a dados reais de internações hospitalares no setor suplementar de saúde (operadoras de planos privados de saúde), disponibilizados pela Agência Nacional de Saúde Suplementar – ANS.
+
+- As hipóteses que tracei são as seguintes:
+
+Os pacientes com mais idade tendem a ter internações hospitalares com um maior tempo de duração?
+
+Existe uma correlação entre o sexo do paciente e o tempo de internação hospitalar?
+
+O tipo de doença do paciente está relacionado com um maior tempo de internação hospitalar?
