@@ -11,11 +11,11 @@ Matrícula: 4052025001401
 
 Este projeto apresenta a Análise de Dados Exploratória (EDA) e o pré-processamento relativos às Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024. 
 
-No presente repositório são disponilizados os seguintes arquivos:
+No presente repositório são disponilizados os seguintes arquivos, além do presente arquivo README.md:
 
-### - Conjunto de dados (SP_202412_HOSP_CONS.csv); 
+### - Dicionário de Variáveis (Dicionário_de_variaveis_a_partir_de_2023.ods); 
 
-### - Dicionário de Variáveis (Dicionário_de_variaveis_a_partir_de_2023.ods); e
+### - Conjunto de dados (SP_202412_HOSP_CONS.csv); e
 
 ### - Notebook do Google Colab, composto por: 
 - Descrição do Problema
