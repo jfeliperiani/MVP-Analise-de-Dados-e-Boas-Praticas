@@ -22,8 +22,6 @@ O conjunto de dados foi selecionado para o presente trabalho por possuir diferen
 
 Considerando que o Portal de Dados Abertos observa parâmetros legais da Lei Geral de Proteção de Dados, não há restrições relativas à disponibilização do conjunto de dados e de suas análises decorrentes.
 
-No presente repositório são disponilizados os seguintes arquivos, além do presente arquivo README.md:
-
 ### - Notebook do Google Colab, composto por: 
 - Descrição do Problema
 - Hipóteses do Problema
@@ -41,5 +39,7 @@ Este estudo demonstrou a importância de análises relativas a fatores como a fa
 
 ### Como Executar
 Acesse o notebook no Google Colab
+
 Execute todas as células em ordem: Runtime → Executar todas
+
 Nenhuma instalação adicional é necessária — todas as bibliotecas utilizadas estão disponíveis por padrão no Colab
