@@ -10,7 +10,7 @@ Matrícula: 4052025001401
 ## Tempo de permanência e custo de internações hospitalares da rede assistencial de operadoras privadas de planos de saúde no estado do Rio de Janeiro 
 
 ### Objetivo
-Este projeto apresenta a Análise de Dados Exploratória (EDA) relattiva a conjunto de dados de Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024. Tem como objetivo analisa atributos como as faixas etária, sexo dos pacientes e tipo de doença podem ou não estar associados a resutados relativos ao tempo de permanência dos pacientes em internações hospitalares. 
+Este projeto apresenta a Análise de Dados Exploratória (EDA) de conjunto de dados de Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024. Tem como objetivo analisar dados de tempo de permanência dos pacientes na internação hospitalar, considerando caracteríticas como faixa etária, sexo dos pacientes e tipo de doença ou condição de saúde, considerando o código CID (Classificação Internacional de Doenças). 
 
 ### Conjunto de dados (SP_202412_HOSP_CONS.csv)
 
@@ -35,7 +35,7 @@ Considerando que o Portal de Dados Abertos observa parâmetros legais da Lei Ger
 - Conclusão
 
 ### Síntese
-Este estudo demonstrou a importância de análises relativas a fatores como a faixa etária e o tipo de doença na determinação do tempo de internação hospitalar. Tais insights podem ser valiosos para operadoras de planos de saúde e hospitais na gestão de recursos, planejamento de atendimento e desenvolvimento de estratégias mais eficazes, visando otimizar a eficiência e a qualidade do cuidado. A preponderância de internações de curta duração (1 dia) e a existência de internações de longa duração destacam a necessidade de considerar a heterogeneidade dos casos ao analisar as médias de permanência.
+Este estudo demonstrou a importância de fatores como a faixa etária e o tipo de doença na determinação do tempo de internação hospitalar. Assim, a análise dessas características no conjunto de pacientes e de internações hospitalares pode subsidiar estratégias das operadoras de planos de saúde e hospitais no planejamento e na gestão de recursos, contribuindo para a qualidade e sustentatibilidade da atenção à saúde. A preponderância de internações de curta duração (1 dia) e a existência de internações de longa duração destacam a necessidade de considerar as características relacionadas ao tempo de permanência dos pacientes nas internações hospitalares.
 
 ### Como Executar
 Acesse o notebook no Google Colab
