@@ -22,7 +22,7 @@ O conjunto de dados foi selecionado para o presente trabalho por possuir diferen
 
 Considerando que o Portal de Dados Abertos observa parâmetros legais da Lei Geral de Proteção de Dados, não há restrições relativas à disponibilização do conjunto de dados e de suas análises decorrentes.
 
-### - Notebook do Google Colab, composto por: 
+### Notebook do Google Colab, composto por: 
 - Descrição do Problema
 - Hipóteses do Problema
 - Tipo do Problema
