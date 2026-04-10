@@ -9,13 +9,20 @@ Matrícula: 4052025001401
 ### *MVP - (Minimum Viable Product)*
 ## Tempo de permanência e custo de internações hospitalares da rede assistencial de operadoras privadas de planos de saúde no estado do Rio de Janeiro 
 
-Este projeto apresenta a Análise de Dados Exploratória (EDA) e o pré-processamento relativos às Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024. 
+### Objetivo
+Este projeto apresenta a Análise de Dados Exploratória (EDA) relattiva a conjunto de dados de Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024. Tem como objetivo analisa atributos como as faixas etária, sexo dos pacientes e tipo de doença podem ou não estar associados a resutados relativos ao tempo de permanência dos pacientes em internações hospitalares. 
+
+### Conjunto de dados (SP_202412_HOSP_CONS.csv)
+
+O conjunto de dados é disponibilizado pela Agência Nacional de Saúde Suplementar – ANS no Portal de Dados Abertos - PDA (https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-abertos-1).
+
+Foi selecionada a competência mais recente disponível (dezembro de 2024) e a Unidade da Federação com maior quantidade de internações hospitalares (São Paulo) (https://dadosabertos.ans.gov.br/FTP/PDA/TISS/HOSPITALAR/2024/SP/SP_202412_HOSP_CONS.zip).
+
+O conjunto de dados foi selecionado para o presente trabalho por possuir diferentes características, possibilitando que sejam exploradas diferentes condições, que podem ou não estar associadas ao tempo de permanância na internação hospitalar.
+
+Considerando que o Portal de Dados Abertos observa parâmetros legais da Lei Geral de Proteção de Dados, não há restrições relativas à disponibilização do conjunto de dados e de suas análises decorrentes.
 
 No presente repositório são disponilizados os seguintes arquivos, além do presente arquivo README.md:
-
-### - Dicionário de Variáveis (Dicionário_de_variaveis_a_partir_de_2023.ods); 
-
-### - Conjunto de dados (SP_202412_HOSP_CONS.csv); e
 
 ### - Notebook do Google Colab, composto por: 
 - Descrição do Problema
@@ -25,15 +32,14 @@ No presente repositório são disponilizados os seguintes arquivos, além do pre
 - Atributos do Dataset
 - Importação das bibliotecas necessárias e carga de dados
 - Análise de Dados Exploratória - EDA
-- Pré-processamento de dados
-- Respondendo nossas hipóteses
+- Considerações sobre pré-processamento de dados
+- Respondendo às hipóteses
 - Conclusão
 
 ### Síntese
+Este estudo demonstrou a importância de análises relativas a fatores como a faixa etária e o tipo de doença na determinação do tempo de internação hospitalar. Tais insights podem ser valiosos para operadoras de planos de saúde e hospitais na gestão de recursos, planejamento de atendimento e desenvolvimento de estratégias mais eficazes, visando otimizar a eficiência e a qualidade do cuidado. A preponderância de internações de curta duração (1 dia) e a existência de internações de longa duração destacam a necessidade de considerar a heterogeneidade dos casos ao analisar as médias de permanência.
 
-O conjunto de dados selecionado corresponde a dados reais de internações hospitalares no setor suplementar de saúde (operadoras de planos privados de saúde), disponibilizados pela Agência Nacional de Saúde Suplementar – ANS. Foi selecionada a competência mais recente disponível (dezembro de 2024) e a Unidade da Federação com maior quantidade de internações hospitalares (São Paulo) (https://dadosabertos.ans.gov.br/FTP/PDA/TISS/HOSPITALAR/2024/SP/SP_202412_HOSP_CONS.zip).
-
-As hipóteses traçadas foram as seguintes:
-- Os pacientes com mais idade tendem a ter internações hospitalares com um maior tempo de duração?
-- Existe uma correlação entre o sexo do paciente e o tempo de internação hospitalar?
-- O tipo de doença do paciente está relacionado com um maior tempo de internação hospitalar?
+### Como Executar
+Acesse o notebook no Google Colab
+Execute todas as células em ordem: Runtime → Executar todas
+Nenhuma instalação adicional é necessária — todas as bibliotecas utilizadas estão disponíveis por padrão no Colab
