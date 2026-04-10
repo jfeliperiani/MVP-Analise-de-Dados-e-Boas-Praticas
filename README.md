@@ -25,14 +25,11 @@ No presente repositório são disponilizados os seguintes arquivos:
 - Respondendo nossas hipóteses
 - Conclusão
 
-- ### Síntese
+### Síntese
 
-- O conjunto de dados selecionado corresponde a dados reais de internações hospitalares no setor suplementar de saúde (operadoras de planos privados de saúde), disponibilizados pela Agência Nacional de Saúde Suplementar – ANS.
+O conjunto de dados selecionado corresponde a dados reais de internações hospitalares no setor suplementar de saúde (operadoras de planos privados de saúde), disponibilizados pela Agência Nacional de Saúde Suplementar – ANS. Foi selecionada a competência mais recente disponível (dezembro de 2024) e a Unidade da Federação com maior quantidade de internações hospitalares (São Paulo) (https://dadosabertos.ans.gov.br/FTP/PDA/TISS/HOSPITALAR/2024/SP/SP_202412_HOSP_CONS.zip).
 
-- As hipóteses que tracei são as seguintes:
-
-Os pacientes com mais idade tendem a ter internações hospitalares com um maior tempo de duração?
-
-Existe uma correlação entre o sexo do paciente e o tempo de internação hospitalar?
-
-O tipo de doença do paciente está relacionado com um maior tempo de internação hospitalar?
+As hipóteses traçadas foram as seguintes:
+- Os pacientes com mais idade tendem a ter internações hospitalares com um maior tempo de duração?
+- Existe uma correlação entre o sexo do paciente e o tempo de internação hospitalar?
+- O tipo de doença do paciente está relacionado com um maior tempo de internação hospitalar?
