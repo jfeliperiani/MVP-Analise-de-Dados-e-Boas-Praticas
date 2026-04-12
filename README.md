@@ -29,7 +29,7 @@ Considerando que o Portal de Dados Abertos observa parâmetros legais da Lei Ger
 - Importação das bibliotecas necessárias e carga de dados
 - Análise de Dados Exploratória - EDA
 - Considerações sobre pré-processamento de dados
-- Resposta às hipóteses
+- Respostas 
 - Conclusão
 
 
