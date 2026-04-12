@@ -4,7 +4,7 @@ Pontifícia Universidade Católica do Rio de Janeiro / Pós-Graduação em Ciên
 
 
 ### *MVP - (Minimum Viable Product)*
-## Tempo de permanência e custo de internações hospitalares da rede assistencial de operadoras privadas de planos de saúde no estado do Rio de Janeiro 
+## Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024  
 
 ### Objetivo
 Este projeto apresenta a Análise de Dados Exploratória (EDA) de conjunto de dados de Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024. Tem como objetivo analisar dados de tempo de permanência dos pacientes na internação hospitalar, considerando caracteríticas como faixa etária, sexo dos pacientes e tipo de doença ou condição de saúde, considerando o código CID (Classificação Internacional de Doenças). 
