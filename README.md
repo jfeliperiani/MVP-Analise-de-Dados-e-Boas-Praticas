@@ -7,7 +7,7 @@ Pontifícia Universidade Católica do Rio de Janeiro / Pós-Graduação em Ciên
 ## Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024  
 
 ### Objetivo
-Este projeto apresenta a Análise de Dados Exploratória (EDA) de conjunto de dados de Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024. Tem como objetivo analisar dados de tempo de permanência dos pacientes na internação hospitalar, considerando caracteríticas como faixa etária, sexo dos pacientes e tipo de doença ou condição de saúde, considerando o código CID (Classificação Internacional de Doenças). 
+Este projeto apresenta a Análise de Dados Exploratória (EDA) de conjunto de dados de Intenações Hospitalares no Setor Privado Suplementar de Saúde no Estado de São Paulo em dezembro de 2024. Tem como objetivo analisar dados de tempo de permanência dos pacientes na internação hospitalar, a partir de caracteríticas como faixa etária, sexo dos pacientes e tipo de doença ou condição de saúde, considerando o código CID (Classificação Internacional de Doenças). 
 
 ### Conjunto de dados (SP_202412_HOSP_CONS.csv)
 
