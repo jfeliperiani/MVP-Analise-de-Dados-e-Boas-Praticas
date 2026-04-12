@@ -22,6 +22,7 @@ O conjunto de dados foi selecionado para o presente trabalho por possuir diferen
 
 Considerando que o Portal de Dados Abertos observa parâmetros legais da Lei Geral de Proteção de Dados, não há restrições relativas à disponibilização do conjunto de dados e de suas análises decorrentes.
 
+
 ### Notebook do Google Colab, composto por: 
 - Descrição do Problema
 - Hipóteses do Problema
@@ -34,8 +35,10 @@ Considerando que o Portal de Dados Abertos observa parâmetros legais da Lei Ger
 - Respondendo às hipóteses
 - Conclusão
 
+
 ### Síntese
 Este estudo demonstrou a importância de fatores como a faixa etária e o tipo de doença na determinação do tempo de internação hospitalar. Assim, a análise dessas características no conjunto de pacientes e de internações hospitalares pode subsidiar estratégias das operadoras de planos de saúde e hospitais no planejamento e na gestão de recursos, contribuindo para a qualidade e sustentatibilidade da atenção à saúde. A preponderância de internações de curta duração (1 dia) e a existência de internações de longa duração destacam a necessidade de considerar as características relacionadas ao tempo de permanência dos pacientes nas internações hospitalares.
+
 
 ### Como Executar
 Acesse o notebook no Google Colab
